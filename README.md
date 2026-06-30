@@ -23,21 +23,6 @@ This profile is where I'm learning publicly: tracking real progress, not polishi
 
 <br/>
 
-## Current Focus
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Currently Building**
-- Java
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- Git & GitHub
-
-</td>
-<td valign="top" width="50%">
-
 **Currently Exploring**
 - Web Development
 - Software Engineering
