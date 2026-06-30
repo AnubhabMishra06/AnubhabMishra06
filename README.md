@@ -58,21 +58,31 @@ This profile is where I'm learning publicly: tracking real progress, not polishi
 
 ## Tech Stack
 
-**Programming Languages**
+## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,python,c" />
+### 💻 Programming Languages *(Currently Learning)*
 
-**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+### 🎨 Frontend
 
-**Developer Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+### 🧰 Developer Tools
 
-**Currently Exploring**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=mysql" />
+### 🌱 Currently Exploring
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 <br/>
 
@@ -164,28 +174,7 @@ Alongside engineering, I'm developing an interest in how good products get built
 
 <br/>
 
-## GitHub Analytics
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AnubhabMishra06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhabMishra06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AnubhabMishra06&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnubhabMishra06&theme=tokyo-night&bg_color=0D1117" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnubhabMishra06&theme=github_dark" />
-
-</div>
-
-<br/>
 
 ## Connect With Me
 
