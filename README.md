@@ -4,12 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=3000&pause=900&color=0A84FF&center=true&vCenter=true&width=600&lines=Building+strong+fundamentals+in+Java+%26+DSA;Learning+Software+Engineering%2C+publicly;Aspiring+toward+AI+%26+Machine+Learning" />
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=AnubhabMishra06&style=for-the-badge&color=0A84FF&label=Profile+Views" />
-
-<br/><br/>
-
 <a href="https://in.linkedin.com/in/anubhab-mishra-2334a1391"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:mishraanubhab18@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://leetcode.com/u/AjUnSTkSQd/"><img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
