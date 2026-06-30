@@ -1,25 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,100:111111&height=200&section=header&text=Anubhab%20Mishra&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20Student%20%7C%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,100:111111&height=190&section=header&text=Anubhab%20Mishra&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20Student%20%7C%20Haldia%20Institute%20of%20Technology&descAlignY=58&descSize=15" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=3000&pause=900&color=0A84FF&center=true&vCenter=true&width=600&lines=Building+strong+fundamentals+in+Java+%26+DSA;Learning+Software+Engineering%2C+publicly;Aspiring+toward+AI+%26+Machine+Learning" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=900&color=0A84FF&center=true&vCenter=true&width=650&lines=Building+strong+fundamentals+in+Java+%26+DSA;Growing+as+a+Software+Engineer;Exploring+the+path+toward+AI+%26+ML;Learning+in+public%2C+one+commit+at+a+time" />
+<img src="https://komarev.com/ghpvc/?username=AnubhabMishra06&style=for-the-badge&color=0A84FF&label=Profile+Views" />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/anubhab-mishra-233">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:mishraanubhab18@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/AjUnSTkSQd/">
-  <img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-</a>
-<a href="https://www.instagram.com/itsanubhab108">
-  <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F" />
-</a>
+<a href="https://in.linkedin.com/in/anubhab-mishra-2334a1391"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mishraanubhab18@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/u/AjUnSTkSQd/"><img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+<a href="https://www.instagram.com/itsanubhab108"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
 
 </div>
 
@@ -27,11 +21,11 @@
 
 ## About Me
 
-I'm an Information Technology student at **Haldia Institute of Technology** (Class of 2028), building a strong foundation in software engineering one fundamental at a time. My current focus is **Java** and **Data Structures & Algorithms**, with a steady habit of solving problems and writing code daily.
+I'm an Information Technology student at **Haldia Institute of Technology**, graduating in 2028, with a strong current focus on **Java** and a steady, daily practice of **Data Structures & Algorithms**.
 
-I care about *why* software works, not just that it works — which is what draws me toward **product thinking** alongside engineering. Long-term, I'm aiming toward **Artificial Intelligence & Machine Learning**, but I'm taking it one solid layer at a time: language fundamentals, problem solving, real projects, then specialization.
+I'm drawn to **Software Engineering** as a discipline, and to **product thinking** as a way of asking why something is worth building, not just how. My long-term goal is to move into **Artificial Intelligence & Machine Learning**, but I believe in mastering fundamentals before specializing — so that's where my time goes right now.
 
-I'm early in this journey, learning openly, and using this profile to track that growth honestly.
+This profile is where I'm learning publicly: tracking real progress, not polishing an image. I'm not claiming expertise here, just consistency.
 
 <br/>
 
@@ -39,20 +33,22 @@ I'm early in this journey, learning openly, and using this profile to track that
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-**Actively working on**
-- Java Programming
+**Currently Building**
+- Java
+- Object-Oriented Programming
 - Data Structures & Algorithms
-- Git & GitHub workflows
+- Git & GitHub
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-**Also exploring**
+**Currently Exploring**
 - Web Development
-- LeetCode (daily practice)
-- Software Development fundamentals
+- Software Engineering
+- Open Source
+- Problem Solving
 
 </td>
 </tr>
@@ -62,9 +58,7 @@ I'm early in this journey, learning openly, and using this profile to track that
 
 ## Tech Stack
 
-> Technologies I'm actively learning and building with — not claiming mastery, just steady progress.
-
-**Programming**
+**Programming Languages**
 
 <img src="https://skillicons.dev/icons?i=java,python,c" />
 
@@ -74,20 +68,23 @@ I'm early in this journey, learning openly, and using this profile to track that
 
 **Developer Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+
+**Currently Exploring**
+
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 <br/>
 
-## AI Tools & Productivity
+## AI Tools
 
-I use AI tools as part of how I learn and work — for research, coding assistance, documentation, brainstorming, and putting ideas together quickly. Treating these as part of a modern engineer's toolkit, not a replacement for understanding fundamentals.
+I use AI tools as part of my regular learning and workflow — for research, coding assistance, documentation, and brainstorming.
 
 <p>
 <img src="https://img.shields.io/badge/ChatGPT-111111?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Gemini-111111?style=for-the-badge&logo=googlegemini&logoColor=8E75FF" />
 <img src="https://img.shields.io/badge/Perplexity-111111?style=for-the-badge&logo=perplexity&logoColor=20808D" />
-<img src="https://img.shields.io/badge/DeepSeek-111111?style=for-the-badge&logo=deepseek&logoColor=white" />
 <img src="https://img.shields.io/badge/Grok-111111?style=for-the-badge&logo=x&logoColor=white" />
 </p>
 <p>
@@ -98,19 +95,6 @@ I use AI tools as part of how I learn and work — for research, coding assistan
 <img src="https://img.shields.io/badge/Canva_AI-111111?style=for-the-badge&logo=canva&logoColor=00C4CC" />
 <img src="https://img.shields.io/badge/ElevenLabs-111111?style=for-the-badge&logo=elevenlabs&logoColor=white" />
 </p>
-
-<br/>
-
-## Currently Learning
-
-| Area | Status |
-|---|---|
-| Java & Object-Oriented Programming | Currently Learning |
-| Data Structures & Algorithms | Currently Learning |
-| Web Development | Exploring |
-| Python | Exploring |
-| Git & GitHub | In Progress |
-| LeetCode Problem Solving | In Progress |
 
 <br/>
 
@@ -125,10 +109,16 @@ Java
 Data Structures & Algorithms
   │
   ▼
-Development (Web & Tools)
+Object-Oriented Programming
   │
   ▼
-Real-World Projects
+Git & GitHub
+  │
+  ▼
+Web Development
+  │
+  ▼
+Projects
   │
   ▼
 System Design Fundamentals
@@ -144,66 +134,33 @@ Machine Learning
 
 <br/>
 
-## LeetCode
+## Coding Profiles
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AjUnSTkSQd/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AjUnSTkSQd/)
 
-Solving problems consistently as part of my daily DSA practice — tracking growth, not chasing a number.
+Solving problems consistently as part of daily DSA practice.
 
 </div>
 
 <br/>
 
-## Product Thinking
+## Featured Projects
 
-Alongside engineering, I'm drawn to how good products get built — not just how they're coded. I'm exploring:
-
-- Product thinking & decision-making
-- The basics of product management
-- User-centric design principles
-- Technology strategy
-- Turning ideas into usable digital products
-
-This is a parallel interest I'm developing alongside my core engineering skills.
+I'm currently building high-quality projects that showcase my learning journey. They will be pinned here as they are completed.
 
 <br/>
 
-## Featured Repositories
+## Product Thinking
 
-<table>
-<tr>
-<td width="50%">
+Alongside engineering, I'm developing an interest in how good products get built, not just how they're coded:
 
-**[Java Practice](https://github.com/AnubhabMishra06)**
-Core Java concepts, OOP exercises, and practice problems.
-
-</td>
-<td width="50%">
-
-**[DSA Repository](https://github.com/AnubhabMishra06)**
-Data structures & algorithm solutions and notes.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[Web Development Projects](https://github.com/AnubhabMishra06)**
-HTML, CSS, and JavaScript builds.
-
-</td>
-<td width="50%">
-
-**[AI/ML Projects](https://github.com/AnubhabMishra06)**
-Future home for AI & ML exploration.
-
-</td>
-</tr>
-</table>
-
-<sub>Pinned repositories will be added here as projects are built.</sub>
+- Product Thinking
+- User-Centered Design
+- Product Management Basics
+- Technology Strategy
+- Digital Products
 
 <br/>
 
@@ -216,74 +173,29 @@ Future home for AI & ML exploration.
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=AnubhabMishra06&theme=tokyonight&hide_border=true&background=0D1117" />
-
-<br/>
-
 <img src="https://github-profile-trophy.vercel.app/?username=AnubhabMishra06&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 <br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnubhabMishra06&theme=tokyo-night&bg_color=0D1117" />
 
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnubhabMishra06&theme=github_dark" />
+
 </div>
 
 <br/>
-
-<!--
-Optional: Snake contribution animation
-Add the file below at .github/workflows/snake.yml in your profile repo,
-then reference the generated SVG here once the action has run once:
-
-<img src="https://raw.githubusercontent.com/AnubhabMishra06/AnubhabMishra06/output/github-contribution-grid-snake-dark.svg" />
-
-Workflow file (.github/workflows/snake.yml):
-
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: AnubhabMishra06
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
 
 ## Connect With Me
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishraanubhab18@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/anubhab-mishra-233)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnubhabMishra06)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/anubhab-mishra-2334a1391)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AjUnSTkSQd/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsanubhab108)
-
-</div>
-
-<br/>
-
-## Quote
-
-<div align="center">
-
-*"The expert in anything was once a beginner who refused to quit reading the documentation."*
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishraanubhab18@gmail.com)
 
 </div>
 
@@ -291,10 +203,8 @@ jobs:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:0A84FF&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:0A84FF&height=120&section=footer&text=Thanks%20for%20visiting%20my%20profile&fontSize=16&fontColor=ffffff&fontAlignY=75" />
 
-<img src="https://komarev.com/ghpvc/?username=AnubhabMishra06&style=for-the-badge&color=0A84FF&label=Profile+Views" />
-
-**Thanks for stopping by — always happy to connect, collaborate, or talk about what I'm building.**
+Always learning. Always building. Always improving.
 
 </div>
