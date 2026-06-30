@@ -1,5 +1,3 @@
-[README (3).md](https://github.com/user-attachments/files/29502935/README.3.md)
-
 <img src="https://raw.githubusercontent.com/AnubhabMishra06/AnubhabMishra06/main/header.svg" width="100%" />
 
 <br/>
